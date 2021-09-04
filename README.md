@@ -26,5 +26,9 @@ Like the [BCN3D Sigma](https://github.com/willtmakinen78/BCN3DSigma), my work on
   - replaced the heavy and drag-prone cable chains with a single wire bundle wrapped in a nice braided sleeve.
 - Added print light
   - this is ther same light used for the science fair project. It's meant to be mounted to cars as an auxillary headlight so it's super bright and makes it really easy to see what you're doing and illuminates things very well for the webcam connected to Repetier Host.
+- Fully custom Marlin configuration
+  - done to keep things updated to the most recent version. The default firware was luckily also a pretty stock Marlin, but Folgertech never really sent out too many updates.
+- Fully custom PrusaSlicer Settings
+  - This machine has printed GCode from almost any slicer imagineable (Slic3r, Cura, Simplify3D), however PrusaSlicer is my current favorite due to how it handles the differences between machines, gneral print settings, and materials.
 - Unified white printed parts
   - tool holders, wire clips, etc. The little things.
